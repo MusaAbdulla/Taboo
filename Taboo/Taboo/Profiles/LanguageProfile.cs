@@ -11,6 +11,7 @@ namespace Taboo.Profiles
             CreateMap<LanguageCreateDTO, Language>()
                 .ForMember(l => l.Icon, d => d.MapFrom(t => t.IconUrl));
             CreateMap<Language ,LanguageGettAllDTO>();
+            CreateMap<LanguageUpdateDTO, Language>();
         }
     }
 }

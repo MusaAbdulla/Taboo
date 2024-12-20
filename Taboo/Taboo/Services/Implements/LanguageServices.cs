@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Taboo.DAL;
 using Taboo.DTOs.Languages;
 using Taboo.Entities;
+using Taboo.Exceptions.Language;
 using Taboo.Services.Abstracts;
 
 namespace Taboo.Services.Implements
@@ -12,8 +13,11 @@ namespace Taboo.Services.Implements
     {
         public async Task CreateAsync(LanguageCreateDTO dto)
         {
+           
+            if (await _context.Languages.AnyAsync(x=> x.Code ==dto.Code))
+                throw new LanguageExixstException();
             var data=_mapper.Map<Language>(dto);
-            await _context.Languages.AddAsync(data); 
+            await _context.Languages.AddAsync(data);
             await _context.SaveChangesAsync();
         }
 
@@ -27,27 +31,26 @@ namespace Taboo.Services.Implements
         public async Task <IEnumerable<LanguageGettAllDTO>> GetAllAsync()
         {
             var items = await _context.Languages.ToListAsync();
-            if (items is null)
-            {
-                throw new Exception("Items is null");
-            }
-            throw new Exception("Success!");
+            return  _mapper.Map<IEnumerable<LanguageGettAllDTO>>(items);
 
         }
+
+        public Task<LanguageGettAllDTO> GetByCode(string code)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task UpdateAsync(LanguageUpdateDTO dto,string code)
         {
-            var data = _context.Languages.Find(code);
-            if (data is null)
-            {
-                throw new ArgumentNullException();
-            }
-            var originalCode =data.Code;
-            originalCode = dto.Code;
-            data.Name = dto.Name;
-            data.Icon = dto.IconUrl;
+           var data= await _getByCode(code);
+            if (data == null) throw new LanguageNotFoundException();
+            _mapper.Map(dto,data);
+            _context.Languages.Update(data); 
             await _context.SaveChangesAsync();
         }
-
+        async Task<Language?> _getByCode(string code)
+            => await _context.Languages.FindAsync(code);
+        
         
     }
 }

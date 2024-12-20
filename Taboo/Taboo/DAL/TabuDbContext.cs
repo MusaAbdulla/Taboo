@@ -9,24 +9,12 @@ namespace Taboo.DAL
         {
         }
         public DbSet<Language> Languages { get; set; }
+        public DbSet<Game > Games { get; set; }
+        public DbSet<Word> Words { get; set; }
+        public DbSet<BannedWord> BannedWords { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Language>(model=>
-            {
-                model.HasKey(model=> model.Code);
-                model.Property(x => x.Code)
-                  .IsRequired()
-                  .HasMaxLength(2);
-                model.Property(x => x.Name)
-                .IsRequired()
-                .HasMaxLength(128);
-                model.Property(x=> x.Icon)
-                .IsRequired()
-                .HasMaxLength(128);
-
-
-            });
-            
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(TabuDbContext).Assembly);
             base.OnModelCreating(modelBuilder);
         }
     }

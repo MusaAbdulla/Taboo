@@ -1,65 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\",
+  "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241220020714_sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taboo\\Migrations\\20241220020714_sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\services\\implements\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\implements\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\services\\abstracts\\ilanguageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\abstracts\\ilanguageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\dtos\\languages\\languagegettalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languagegettalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\migrations\\20241218215856_createtablelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\migrations\\20241218215856_createtablelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\source\\repos\\taboo\\taboo\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\migrations\\20241220015023_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\migrations\\20241220015023_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\validators\\languages\\languageupdatedtovalidtaor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\validators\\languages\\languageupdatedtovalidtaor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\services\\implements\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\implements\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\exceptions\\language\\languageexixstexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\language\\languageexixstexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\services\\abstracts\\ilanguageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\abstracts\\ilanguageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\dtos\\languages\\languagegettalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languagegettalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\migrations\\20241218215856_createtablelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\migrations\\20241218215856_createtablelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|c:\\users\\sheki-komp\\desktop\\tabooo\\taboo\\taboo\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29583FE0-CBEE-4214-B8DB-7D8CC7D7DEDF}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,177 +118,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LanguageUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
-              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:31:58.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Taboo\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\ServiceRegistration.cs",
-              "RelativeToolTip": "Taboo\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:29:56.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LanguageProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Profiles\\LanguageProfile.cs",
-              "RelativeDocumentMoniker": "Taboo\\Profiles\\LanguageProfile.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Profiles\\LanguageProfile.cs",
-              "RelativeToolTip": "Taboo\\Profiles\\LanguageProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:11:50.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LanguageServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Services\\Implements\\LanguageServices.cs",
-              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\LanguageServices.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Services\\Implements\\LanguageServices.cs",
-              "RelativeToolTip": "Taboo\\Services\\Implements\\LanguageServices.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:08:35.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LanguageGettAllDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
-              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
-              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:05:56.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILanguageServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Services\\Abstracts\\ILanguageServices.cs",
-              "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\ILanguageServices.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Services\\Abstracts\\ILanguageServices.cs",
-              "RelativeToolTip": "Taboo\\Services\\Abstracts\\ILanguageServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:04:39.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LanguageCreateDTOValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
-              "RelativeDocumentMoniker": "Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
-              "RelativeToolTip": "Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:33:32.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LanguageCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
-              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
-              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:13:28.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "Taboo\\Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "Taboo\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:10:12.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241218215856_CreateTableLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
-              "RelativeDocumentMoniker": "Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
-              "RelativeToolTip": "Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:58:56.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Entities\\Language.cs",
-              "RelativeDocumentMoniker": "Taboo\\Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Entities\\Language.cs",
-              "RelativeToolTip": "Taboo\\Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:46:48.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\appsettings.json",
-              "RelativeDocumentMoniker": "Taboo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\appsettings.json",
-              "RelativeToolTip": "Taboo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T21:43:42.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Program.cs",
-              "RelativeDocumentMoniker": "Taboo\\Program.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Program.cs",
-              "RelativeToolTip": "Taboo\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:41:27.996Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -255,29 +134,349 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241220020714_sss.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241220020714_sss.cs",
+              "RelativeDocumentMoniker": "Taboo\\Migrations\\20241220020714_sss.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241220020714_sss.cs",
+              "RelativeToolTip": "Taboo\\Migrations\\20241220020714_sss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:07:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\WordConfiguration.cs",
+              "RelativeDocumentMoniker": "Taboo\\Configurations\\WordConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\WordConfiguration.cs",
+              "RelativeToolTip": "Taboo\\Configurations\\WordConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:56:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "Taboo\\Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "Taboo\\Entities\\BannedWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:52:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Taboo\\Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Word.cs",
+              "RelativeToolTip": "Taboo\\Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:51:35.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241220015023_CreateTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241220015023_CreateTable.cs",
+              "RelativeDocumentMoniker": "Taboo\\Migrations\\20241220015023_CreateTable.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241220015023_CreateTable.cs",
+              "RelativeToolTip": "Taboo\\Migrations\\20241220015023_CreateTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:50:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "Taboo\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "Taboo\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:21:34.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\LanguageConfiguration.cs",
+              "RelativeDocumentMoniker": "Taboo\\Configurations\\LanguageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Configurations\\LanguageConfiguration.cs",
+              "RelativeToolTip": "Taboo\\Configurations\\LanguageConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:17:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Taboo\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Game.cs",
+              "RelativeToolTip": "Taboo\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:11:25.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LanguageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "RelativeDocumentMoniker": "Taboo\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "RelativeToolTip": "Taboo\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T00:35:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LanguageUpdateDTOValidtaor.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Validators\\Languages\\LanguageUpdateDTOValidtaor.cs",
+              "RelativeDocumentMoniker": "Taboo\\Validators\\Languages\\LanguageUpdateDTOValidtaor.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Validators\\Languages\\LanguageUpdateDTOValidtaor.cs",
+              "RelativeToolTip": "Taboo\\Validators\\Languages\\LanguageUpdateDTOValidtaor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T00:28:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LanguageExixstException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageExixstException.cs",
+              "RelativeDocumentMoniker": "Taboo\\Exceptions\\Language\\LanguageExixstException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageExixstException.cs",
+              "RelativeToolTip": "Taboo\\Exceptions\\Language\\LanguageExixstException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:54:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "Taboo\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "Taboo\\Exceptions\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:52:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LanguageUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:31:58.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Taboo\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\ServiceRegistration.cs",
+              "RelativeToolTip": "Taboo\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:29:56.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "Taboo\\Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "Taboo\\Profiles\\LanguageProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:11:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LanguageServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Services\\Implements\\LanguageServices.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\LanguageServices.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Services\\Implements\\LanguageServices.cs",
+              "RelativeToolTip": "Taboo\\Services\\Implements\\LanguageServices.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:08:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LanguageGettAllDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageGettAllDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:05:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILanguageServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Services\\Abstracts\\ILanguageServices.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\ILanguageServices.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Services\\Abstracts\\ILanguageServices.cs",
+              "RelativeToolTip": "Taboo\\Services\\Abstracts\\ILanguageServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:04:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LanguageCreateDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
+              "RelativeDocumentMoniker": "Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
+              "RelativeToolTip": "Taboo\\Validators\\Languages\\LanguageCreateDTOValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:33:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LanguageCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:13:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Taboo\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Taboo\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:10:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241218215856_CreateTableLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
+              "RelativeDocumentMoniker": "Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
+              "RelativeToolTip": "Taboo\\Migrations\\20241218215856_CreateTableLanguage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:58:56.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Taboo\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Entities\\Language.cs",
+              "RelativeToolTip": "Taboo\\Entities\\Language.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:46:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\appsettings.json",
+              "RelativeDocumentMoniker": "Taboo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\appsettings.json",
+              "RelativeToolTip": "Taboo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T21:43:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Program.cs",
+              "RelativeDocumentMoniker": "Taboo\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Program.cs",
+              "RelativeToolTip": "Taboo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:41:27.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DAL\\TabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DAL\\TabuDbContext.cs",
               "RelativeDocumentMoniker": "Taboo\\DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\DAL\\TabuDbContext.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\DAL\\TabuDbContext.cs",
               "RelativeToolTip": "Taboo\\DAL\\TabuDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T21:36:06.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Controllers\\GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Taboo\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\source\\repos\\Taboo\\Taboo\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\Tabooo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
               "RelativeToolTip": "Taboo\\Controllers\\GamesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:32:28.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T21:32:28.651Z"
             }
           ]
         }
