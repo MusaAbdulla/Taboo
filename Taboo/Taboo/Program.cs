@@ -13,7 +13,7 @@ namespace Taboo
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.Services.AddMemoryCache();
             builder.Services.AddControllers();
             builder.Services.AddFluentValidationAutoValidation();   
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();

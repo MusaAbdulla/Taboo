@@ -8,6 +8,8 @@ namespace Taboo
         public static IServiceCollection AddService(this IServiceCollection services)
         {
             services.AddScoped<ILanguageServices, LanguageServices>();
+            services.AddScoped<IGameService, GameService>();
+            services.AddScoped<IWordService, WordService>();
             return services;
         }
     }

@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Taboo.Controllers.GamesController",
+    "Method": "Create",
+    "RelativePath": "api/Games",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Taboo.DTOs.Game.GameCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taboo.Controllers.GamesController",
     "Method": "Get",
     "RelativePath": "api/Games",
     "HttpMethod": "GET",
@@ -68,6 +84,69 @@
         "Name": "dto",
         "Type": "Taboo.DTOs.Languages.LanguageUpdateDTO",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taboo.Controllers.WordsController",
+    "Method": "Post",
+    "RelativePath": "api/Words",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Taboo.DTOs.Word.WordCreateDTo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taboo.Controllers.WordsController",
+    "Method": "Get",
+    "RelativePath": "api/Words",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taboo.Controllers.WordsController",
+    "Method": "Put",
+    "RelativePath": "api/Words",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Taboo.DTOs.Word.WordUpdateDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taboo.Controllers.WordsController",
+    "Method": "Delete",
+    "RelativePath": "api/Words",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
