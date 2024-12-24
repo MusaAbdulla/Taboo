@@ -22,32 +22,9 @@ namespace Taboo.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(LanguageCreateDTO dto)
         {
-            try
-            {
                 await _service.CreateAsync(dto);
                 return Created();
-            }
-            catch (Exception ex)
-            {
-                if(ex is IBaseException ibe)
-                {
-                    return StatusCode(ibe.StatusCode, new
-                    {
-                        StatusCode = ibe.StatusCode,
-                        Message = ibe.ErrorMessage,
-                    });
-                }
-                else
-                {
-                    return BadRequest(new
-                    {
 
-                        StatusCode = StatusCodes.Status400BadRequest,
-                        Message = ex.Message,
-                    });
-                }
-            }
-           
         }
         [HttpDelete]
         public async Task<IActionResult> Delete(string code)
@@ -56,36 +33,11 @@ namespace Taboo.Controllers
             return Ok();
         }
         [HttpPut]
-        public async Task<IActionResult> Update(string code ,LanguageUpdateDTO dto)
+        public async Task<IActionResult> Update(string code, LanguageUpdateDTO dto)
         {
-            try
-            {
-               await _service.UpdateAsync(dto,code);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                if (ex is IBaseException ibe)
-                {
-                    return StatusCode(ibe.StatusCode, new
-                    {
-                        StatusCode = ibe.StatusCode,
-                        Message = ibe.ErrorMessage,
-                    });
-                }
-                else
-                {
-                    return BadRequest(new
-                    {
 
-                        StatusCode = StatusCodes.Status400BadRequest,
-                        Message = ex.Message,
-                    });
-                }
-            }
-
+            await _service.UpdateAsync(dto, code);
+            return Ok();
         }
-        
-
     }
 }
